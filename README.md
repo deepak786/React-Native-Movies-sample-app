@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
-## Movie list from the API
-https://api.androidhive.info/json/movies.json
+## Movie list API
+https://api.androidhive.info/json/movies.json<br/>
 Thanks to [@AndroidHive](http://www.androidhive.info/) for the API
 
 ## Screenshot of the Application
